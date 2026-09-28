@@ -1,4 +1,4 @@
-Markdown
+
 # Hi there, I'm Nikhil 👋 
 
 ![Data Analytics](https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20BI-blue?style=for-the-badge)
