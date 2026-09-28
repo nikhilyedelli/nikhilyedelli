@@ -46,13 +46,6 @@ I am an ambitious **Data Analyst** passionate about transforming raw, unstructur
 
 **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) MySQL Workbench, Jupyter Notebook.
 
----
-
-## 📈 GitHub Stats
-
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
